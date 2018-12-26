@@ -1,0 +1,7 @@
+F:\Projects\BinaryTree\TreeDataStructure\TreeDataStructure\bin\Debug\TreeDataStructure.exe.config
+F:\Projects\BinaryTree\TreeDataStructure\TreeDataStructure\bin\Debug\TreeDataStructure.exe
+F:\Projects\BinaryTree\TreeDataStructure\TreeDataStructure\bin\Debug\TreeDataStructure.pdb
+F:\Projects\BinaryTree\TreeDataStructure\TreeDataStructure\obj\Debug\TreeDataStructure.csprojAssemblyReference.cache
+F:\Projects\BinaryTree\TreeDataStructure\TreeDataStructure\obj\Debug\TreeDataStructure.csproj.CoreCompileInputs.cache
+F:\Projects\BinaryTree\TreeDataStructure\TreeDataStructure\obj\Debug\TreeDataStructure.exe
+F:\Projects\BinaryTree\TreeDataStructure\TreeDataStructure\obj\Debug\TreeDataStructure.pdb
